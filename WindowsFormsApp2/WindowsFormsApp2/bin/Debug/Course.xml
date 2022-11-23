@@ -1,0 +1,32 @@
+<course>
+  <student id="123">
+    <name>khoi</name>
+    <age>13</age>
+    <city>hn</city>
+  </student>
+  <student id="i12213">
+    <name>Tien anheee</name>
+    <age>14</age>
+    <city>ha noi h</city>
+  </student>
+  <student id="k1234">
+    <name>Khoidola</name>
+    <age>14</age>
+    <city>vp</city>
+  </student>
+  <student id="e1245">
+    <name>chien</name>
+    <age>11</age>
+    <city>ha nam</city>
+  </student>
+  <student id="w1111">
+    <name>trang</name>
+    <age>12</age>
+    <city>thai binh</city>
+  </student>
+  <student id="123">
+    <name>khoihaha</name>
+    <age>16</age>
+    <city>hn</city>
+  </student>
+</course>

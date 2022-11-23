@@ -1,0 +1,23 @@
+<nganhang>
+  <taikhoan>
+    <sotaikhoan>139344132</sotaikhoan>
+    <tentaikhoan>Nguyen tien khoi</tentaikhoan>
+    <diachi>Vinh phuc</diachi>
+    <dienthoai>0329430099</dienthoai>
+    <sotien>2000000</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>12345</sotaikhoan>
+    <tentaikhoan>khoiddll</tentaikhoan>
+    <diachi>vp</diachi>
+    <dienthoai>012921049</dienthoai>
+    <sotien>1244566</sotien>
+  </taikhoan>
+  <taikhoan>
+    <sotaikhoan>1234g</sotaikhoan>
+    <tentaikhoan>nhanh</tentaikhoan>
+    <diachi>gon</diachi>
+    <dienthoai>0697523432</dienthoai>
+    <sotien>1000</sotien>
+  </taikhoan>
+</nganhang>

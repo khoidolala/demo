@@ -1,0 +1,17 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Index";
+}
+<h2>Đọc/Ghi file</h2>
+<form action="" method="post">
+    <div>Mã sinh viên:</div><input name="id" />
+    <div>Họ tên: </div><input name="name" />
+    <div>Điểm: </div><input name="mark" />
+    <hr/>
+    <input type="submit" value="Lưu" formaction="/NhapDiem/Save"/>
+    <input type="submit" value="Open" formaction="/NhapDiem/Open"/>
+</form>
+<p>@ViewBag.HanhDong</p>
+<p>@ViewBag.ThongTin</p>
